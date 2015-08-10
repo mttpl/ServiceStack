@@ -1,3 +1,5 @@
+This is fork of ServiceStack/ServiceStack repository
+
 See [servicestack.net/features](http://servicestack.net/features) for an overview and the [Release Notes](https://servicestack.net/release-notes) for latest features.
 
 Join the [ServiceStack Google+ Community](https://plus.google.com/u/0/communities/112445368900682590445) or
